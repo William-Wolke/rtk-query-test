@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "title": "Metro 2033",
+      "author": "Dmitry Glukhovsky",
+      "year": 2005,
+      "id": 0
+    },
+    {
+      "title": "Roadside Picnic",
+      "author": "Arkadij Strugatskij",
+      "year": 1972,
+      "id": 1
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "year": 2021,
+      "id": 2
+    },
+    {
+      "title": "Towards the light",
+      "author": "Andrej Djakov",
+      "year": 2010,
+      "id": 3
+    }
+  ]
+}
